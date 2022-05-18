@@ -1,0 +1,63 @@
+
+body {
+    background-color: ghostwhite;
+}
+
+.LoggaText {
+    background-color: bisque;
+display: inline-block;
+width: 300px;
+height: 340px;
+border: 15px solid greenyellow;
+padding: 50px;
+margin: 10px;
+margin-left: 10px;
+color: white;
+border-image: url(https://ak.picdn.net/shutterstock/videos/1007771119/thumb/8.jpg);
+border-image-slice: 5%;
+border-image-repeat: stretch;
+float: left;
+
+}
+
+.AmosH1 {
+    color: red;
+    
+    margin-top: 1px;
+margin-bottom: 1px;
+margin-left: 50px;
+margin-right: 3px;
+
+}
+
+.amologga {
+    float: left;
+    margin-left: 1000px 0px 30px 30px;
+}
+
+.LOOH3 {
+    color:red
+    
+}
+
+.maps {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.a1 {
+    position: absolute;
+    top: 20;
+    left: 175px;
+    color: red;
+}
+
+.a2 {
+    position: absolute;
+    top: 540px;
+    left: 190px;
+    color: red;
+}
